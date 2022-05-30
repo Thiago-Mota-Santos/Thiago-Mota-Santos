@@ -12,7 +12,9 @@
   <img align="center" alt="TH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="TH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TH-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="right" alt="TH-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/779812240106455060/980890239151251486/spooky-ougi.png">
+  
 </div>
   
   ##
