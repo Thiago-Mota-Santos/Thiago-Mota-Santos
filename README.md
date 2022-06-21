@@ -1,5 +1,5 @@
 
-## Hi there 👋 My name is Thiago, and I am currently studying programming
+## Hi there 👋 My name is Thiago, and I am currently studying web development
 
 <div align="center">
   <a href="https://github.com/Thiago-Mota-Santos">
