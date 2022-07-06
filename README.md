@@ -2,6 +2,7 @@
 ## Hi there 👋 My name is Thiago, and I am currently studying web development
 
 <div align="center">
+  <p>My current goal is to learn backend to understand the whole ecosystem and how to connect this layer with the frontend.</p>
   <a href="https://github.com/Thiago-Mota-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Mota-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Mota-Santos&layout=compact&langs_count=7&theme=dracula"/>
