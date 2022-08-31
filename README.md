@@ -19,9 +19,9 @@
 </div>
   <div>
     <h1>Learning: </h1>
+    <p> NodeJS - GraphQL - architecture
   </div>
-  ##
- 
+ <h1>Social Media</h1>
 <div> 
   <a href = "mailto:lucimara1422@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-mota-1a38a8224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
