@@ -19,7 +19,7 @@
 </div>
   <div>
     <h1>Learning: </h1>
-    <p> NodeJS - GraphQL - architecture
+    <p> NodeJS - GraphQL - Clean Architecture
   </div>
  <h1>Social Media</h1>
 <div> 
