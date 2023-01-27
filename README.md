@@ -3,7 +3,7 @@
 
 <div>
   <p>My current goal is to learn backend to understand the whole ecosystem and how to connect this layer with the frontend.</p>
-  <div style="margin-bottom: 10px">
+  <div>
 - 🌍  I'm born and based in Campinas, Brazil </br>
 - ✉️  You can contact me at [thiagomot.santos@gmail.com](mailto:thiagomot.santos@gmail.com) </br>
 - 🚀  I'm currently learing Software Development </br>
