@@ -3,14 +3,14 @@
 
 <div align="center">
   <p>My current goal is to learn backend to understand the whole ecosystem and how to connect this layer with the frontend.</p>
-  <div align="start">
-- 🌍  I'm born and based in Campinas, Brazil
-- ✉️  You can contact me at [thiagomot.santos@gmail.com](mailto:thiagomot.santos@gmail.com)
-- 🚀  I'm currently learing Software Development
-- 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, GraphQL, Node, Docker.
-- 🧠  I'm learning about Java, React Native
-- 🤝  I'm open to collaborating in open source projects
-- 💗  I'm plan to start working as a freelancer
+  <div>
+    - 🌍  I'm born and based in Campinas, Brazil </br>
+- ✉️  You can contact me at [thiagomot.santos@gmail.com](mailto:thiagomot.santos@gmail.com) </br>
+- 🚀  I'm currently learing Software Development </br>
+- 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, GraphQL, Node, Docker. </br>
+- 🧠  I'm learning about Java, React Native </br>
+- 🤝  I'm open to collaborating in open source projects </br>
+- 💗  I'm plan to start working as a freelancer </br>
   
   </div>
   <a href="https://github.com/Thiago-Mota-Santos">
