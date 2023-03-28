@@ -5,7 +5,7 @@
   <p>My current goal is to learn backend to understand the whole ecosystem and how to connect this layer with the frontend.</p>
   <div>
 - 🌍  I'm born and based in Campinas, Brazil </br>
-- ✉️  You can contact me at [thiagomot.santos@gmail.com](mailto:thiagomot.santos@gmail.com) </br>
+- ✉️  You can contact me at [thiagomot.santos@gmail.com]</br>
 - 🚀  I'm currently learing Software Development </br>
 - 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, GraphQL, Node, Docker. </br>
 - 🧠  I'm learning about Java, React Native </br>
