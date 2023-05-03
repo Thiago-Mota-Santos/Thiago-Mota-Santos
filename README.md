@@ -10,7 +10,6 @@
 - 🤓  I'm know about ReactJS, NextJS, Typescript, Styled Components, GraphQL, Node, Docker. </br>
 - 🧠  I'm learning about Java, React Native </br>
 - 🤝  I'm open to collaborating in open source projects </br>
-- 💗  I'm plan to start working as a freelancer </br>
   
   </div>
   <a href="https://github.com/Thiago-Mota-Santos">
