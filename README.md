@@ -1,14 +1,8 @@
 
-## Hi there 👋 My name is Thiago, and I am currently studying web development
+## Hi there 👋 My name is Thiago
 
 <div>
-  <p>My current goal is to learn backend to understand the whole ecosystem and how to connect this layer with the frontend.</p>
   <div>
-- 🌍  I'm born and based in Campinas, Brazil </br>
-    <a href="mailto:thiagomot.santos@gmail.com"> - ✉️  You can contact me at email</a></br>
-- 🚀  I'm currently learing Software Development </br>
-- 🤓  I'm know about ReactJS, NextJS, Typescript, Tailwind, Node, GraphQL, Relay, Node, Docker. </br>
-- 🧠  I'm learning about React Native </br>
 - 🤝  I'm open to collaborating in open source projects </br>
   
   </div>
